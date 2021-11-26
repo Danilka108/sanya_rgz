@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="sanya_rgz"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sanya_rgz">
+				<Option output="/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/sanya_rgz" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 sanya_rgz"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sanya_rgz/fast">
+				<Option output="/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/sanya_rgz" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 sanya_rgz/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/danilka108/CLionProjects/sanya-rgz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/danilka108/CLionProjects/sanya-rgz/main.cpp">
+			<Option target="sanya_rgz"/>
+		</Unit>
+		<Unit filename="/home/danilka108/CLionProjects/sanya-rgz/src/config.hpp">
+			<Option target="sanya_rgz"/>
+		</Unit>
+		<Unit filename="/home/danilka108/CLionProjects/sanya-rgz/src/io/io.cpp">
+			<Option target="sanya_rgz"/>
+		</Unit>
+		<Unit filename="/home/danilka108/CLionProjects/sanya-rgz/src/io/io.hpp">
+			<Option target="sanya_rgz"/>
+		</Unit>
+		<Unit filename="/home/danilka108/CLionProjects/sanya-rgz/src/operations/choose_operation.cpp">
+			<Option target="sanya_rgz"/>
+		</Unit>
+		<Unit filename="/home/danilka108/CLionProjects/sanya-rgz/src/operations/choose_operation.hpp">
+			<Option target="sanya_rgz"/>
+		</Unit>
+		<Unit filename="/home/danilka108/CLionProjects/sanya-rgz/src/operations/divide.cpp">
+			<Option target="sanya_rgz"/>
+		</Unit>
+		<Unit filename="/home/danilka108/CLionProjects/sanya-rgz/src/operations/divide.hpp">
+			<Option target="sanya_rgz"/>
+		</Unit>
+		<Unit filename="/home/danilka108/CLionProjects/sanya-rgz/src/operations/multiply.cpp">
+			<Option target="sanya_rgz"/>
+		</Unit>
+		<Unit filename="/home/danilka108/CLionProjects/sanya-rgz/src/operations/multiply.hpp">
+			<Option target="sanya_rgz"/>
+		</Unit>
+		<Unit filename="/home/danilka108/CLionProjects/sanya-rgz/src/operations/sum.cpp">
+			<Option target="sanya_rgz"/>
+		</Unit>
+		<Unit filename="/home/danilka108/CLionProjects/sanya-rgz/src/operations/sum.hpp">
+			<Option target="sanya_rgz"/>
+		</Unit>
+		<Unit filename="/home/danilka108/CLionProjects/sanya-rgz/src/str_num/str_num.cpp">
+			<Option target="sanya_rgz"/>
+		</Unit>
+		<Unit filename="/home/danilka108/CLionProjects/sanya-rgz/src/str_num/str_num.hpp">
+			<Option target="sanya_rgz"/>
+		</Unit>
+		<Unit filename="/home/danilka108/CLionProjects/sanya-rgz/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
